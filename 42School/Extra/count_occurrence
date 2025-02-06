@@ -1,0 +1,15 @@
+Assignment name  : first_occurrence
+Expected files   : first_occurrence.c
+Allowed functions: 
+--------------------------------------------------------------------------------
+
+Write a function finds hte first occurrence of a character in a string and return 
+the position. If don'd find should return -1.
+
+Your function must be declared as follows:
+
+int find_first_occurrence(char *str, char c);
+
+
+
+
