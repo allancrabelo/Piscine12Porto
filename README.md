@@ -101,7 +101,7 @@ Participating in the 42 Piscine was a transformative experience. In just four we
 
 ## 🚧 Tutorials (Coming Soon)
 
-I'm currently working on a detailed tutorial to help others navigate the LIBFT project more efficiently. This section will include:
+I'm currently working on a detailed tutorial to help others navigate the PISCINE 42 project more efficiently. This section will include:
 
     📹 Video Guide – A step-by-step walkthrough explaining key concepts and solutions.
     📄 PDF Guide – A structured document with explanations, tips, and best practices.
